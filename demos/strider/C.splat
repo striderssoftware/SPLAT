@@ -1,0 +1,18 @@
+= element C
+\symbol C
+\color #0f0
+\audio #003
+\symmetries all
+
+== Rules
+given Z isa Wall
+
+   @_ -> _@
+
+   @Z_ -> @ZZ
+
+   @ZZ -> @ZZ
+
+   @ -> @
+
+

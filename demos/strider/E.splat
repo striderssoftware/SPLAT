@@ -1,0 +1,18 @@
+= element E
+\symbol E
+\color #0f0
+\audio #005
+\symmetries all
+
+== Rules
+given Z isa Wall
+
+   @_ -> _@
+
+   @Z_ -> @ZZ
+
+   @ZZ -> @ZZ
+
+   @ -> @
+
+
